@@ -1,5 +1,8 @@
 # Wine Quality Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giovapaga/wine-quality-prediction/blob/main/Notebook_1.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/giovapaga/wine-quality-prediction/blob/main/Notebook_1.ipynb)
+
 A supervised machine learning project to classify wine quality based on physicochemical properties.
 
 ## Overview
