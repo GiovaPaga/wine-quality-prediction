@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction
+# Wine Quality Prediction
 
 A supervised machine learning project to classify wine quality based on physicochemical properties.
 
