@@ -110,5 +110,5 @@ jupyter notebook Notebook_1.ipynb
 
 ## Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Giovanni Pagani**  
+[LinkedIn](https://linkedin.com/in/giovannipagani) · [GitHub](https://github.com/giovapaga)
